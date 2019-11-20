@@ -6626,8 +6626,6 @@ test/units/playbook/test_conditional.py future-import-boilerplate
 test/units/playbook/test_conditional.py metaclass-boilerplate
 test/units/plugins/action/test_synchronize.py future-import-boilerplate
 test/units/plugins/action/test_synchronize.py metaclass-boilerplate
-test/units/plugins/httpapi/test_checkpoint.py future-import-boilerplate
-test/units/plugins/httpapi/test_checkpoint.py metaclass-boilerplate
 test/units/plugins/httpapi/test_ftd.py future-import-boilerplate
 test/units/plugins/httpapi/test_ftd.py metaclass-boilerplate
 test/units/plugins/inventory/test_constructed.py future-import-boilerplate
